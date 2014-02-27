@@ -1,0 +1,4 @@
+#summary Simple schematic of the circuit seen in the video
+
+= Schematic =
+
