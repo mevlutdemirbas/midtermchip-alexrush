@@ -2,4 +2,4 @@
 
 = Schematic =
 
-<wiki:video url="file:///C:/Users/Alex/Downloads/Midterm.pdf">.
+<iframe src="file:///C:/Users/Alex/Downloads/Midterm.pdf" width="640" height="480"></iframe>
