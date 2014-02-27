@@ -4,7 +4,7 @@
 
 Video of the LED lighting code
 
-<wiki:video url="http://www.youtube.com/watch?v=KnnYiW5dnhQ/>.
+<wiki:video url="http://youtu.be/zWhGfwnen-k>.
 
 
 Video of the password code
