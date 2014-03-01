@@ -4,4 +4,4 @@
 
 
 
-<https://code.google.com/p/midtermchip-alexrush/source/browse/wiki/Screenshot.png>.
+https://code.google.com/p/midtermchip-alexrush/source/browse/wiki/Screenshot.png
